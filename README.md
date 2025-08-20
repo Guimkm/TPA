@@ -1,1 +1,3 @@
 O código tem como objetivo revelar se um ano é bissexto ou não, uilizando if, e else para fazer o calculo que descobre se o ano é ou não bissexto, e usa tags de swing para ser mais interativo.
+
+![](https://raw.githubusercontent.com/MateusMaciel340/aluraplay/main/assets/aluraplay.gif)
