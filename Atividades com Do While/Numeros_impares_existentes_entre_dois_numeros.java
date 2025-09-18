@@ -1,4 +1,3 @@
-
 package com.mycompany.numeros_impares_existentes_entre_dois_numeros;
 import java.util.Scanner;
 public class Numeros_impares_existentes_entre_dois_numeros {
@@ -14,24 +13,28 @@ public class Numeros_impares_existentes_entre_dois_numeros {
          
         
         if (n1 % 2 != 0){
-            n1 += 2;
+            n1 += 1;
         }
         else {
-        n1 += 1;
+        n1 += 2;
     }
         
             if (n2 % 2 != 0) {
-                n2 -= 2;
+                n2 -= 1;
                 
             } else {
-                n2 -= 1;
+                n2 -= 2;
             }
-                    
-            
-            int n = n2 / n1;
-            int r = ((n1 + n2) * n) / 2;
-            
-    System.out.println("A soma dos numeros impares existentes entre eles e igual:  " + r);
+                 int r = 0;   
+                 
+                                  do {
+            if (n1 % 2 != 0) {
+                r += n1;
+            }
+            n1++;
+        } while (n1 <= n2);
+                 
+    System.out.println("A soma dos numeros impares existentes entre eles e igual a:  " + r);
     }
     
 }
