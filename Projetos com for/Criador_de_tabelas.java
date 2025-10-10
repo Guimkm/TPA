@@ -22,28 +22,29 @@ public class Criador_de_tabelas {
         if (t == 1) {
         for (double f = 1;f <= 10;f++){
         r = n + f;
-        System.out.println(n +" * "+ f +" = "+ r);
+        System.out.println(n +" + "+ f +" = "+ r);
         }}
         
         //Parte para fazer a tabela de Subtração
-        if (t == 2) {
+        else if (t == 2) {
         for (double f = 1;f <= 10;f++){
         r = n - f;
-        System.out.println(n +" * "+ f +" = "+ r);
+        System.out.println(n +" - "+ f +" = "+ r);
         }}
         
         //Parte para fazer a tabela de multiplcação
-        if (t == 3) {
+        else if (t == 3) {
         for (double f = 1;f <= 10;f++){
         r = n * f;
         System.out.println(n +" * "+ f +" = "+ r);
         }}
         
         //Parte para fazer a tabela de divisão
-        if (t == 4) {
+        else if (t == 4) {
         for (double f = 1;f <= 10;f++){
         r = n / f;
-        System.out.println(n +" * "+ f +" = "+ r);
+        System.out.println(n +" / "+ f +" = "+ r);
         }}
+        
     }
 }
