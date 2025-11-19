@@ -25,3 +25,9 @@ Exibição dos números ímpares.
 <img width="417" height="132" alt="Captura de tela 2025-11-12 191201" src="https://github.com/user-attachments/assets/0b9b4ce0-7df3-4fcf-bcbe-93b173dee1c1" />
 
 Exibição dos números pares. Como também a finalização dos códigos.
+
+
+Código em funcionamento:
+
+
+<img width="263" height="328" alt="Anotação 2025-11-19 134002" src="https://github.com/user-attachments/assets/81ec580e-64fb-499e-be8f-09a76ce0c6f8" />
