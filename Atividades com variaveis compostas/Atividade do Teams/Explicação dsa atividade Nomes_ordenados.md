@@ -29,5 +29,6 @@ Como também finaliza o código.
 
 
 Código em Funcionamento:
+
 <img width="293" height="229" alt="Anotação 2025-11-19 133738" src="https://github.com/user-attachments/assets/ca1f4c96-9be0-4758-9783-2beaa8d24079" />
 
