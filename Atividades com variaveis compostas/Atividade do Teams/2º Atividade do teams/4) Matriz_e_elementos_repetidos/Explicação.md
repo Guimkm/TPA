@@ -43,3 +43,12 @@ Diz se há números repetidos ou não
 Mostra a quantidade de números ímpares
 
 Mostra a quantidade de números pares
+
+
+<img width="441" height="100" alt="Captura de tela 2025-11-22 141855" src="https://github.com/user-attachments/assets/aef63efc-b86b-4ce5-a7e3-e0f1be141102" />
+
+
+<img width="575" height="489" alt="Captura de tela 2025-11-22 141845" src="https://github.com/user-attachments/assets/04b89b9d-da0b-454c-866a-3c8150b575dc" />
+
+
+Código em funcionamento.
