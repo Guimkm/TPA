@@ -49,3 +49,12 @@ Matriz completa que você digitou
 Soma total dos números pares
 
 Média dos números pares
+
+
+
+
+
+<img width="596" height="412" alt="Captura de tela 2025-11-22 134104" src="https://github.com/user-attachments/assets/c98aac1d-e796-41a1-8bcd-59babe32cf9d" />
+
+
+Código em funcionamento.
