@@ -22,8 +22,8 @@ for(int i = 0;i < 5;i++){
 //----------------------------------------------------------------------------//
 
 System.out.println("\nMatriz digitada:");
-        for (int i = 0; i < 4; i++) {
-            for (int j = 0; j < 4; j++) {
+        for (int i = 0; i < 5; i++) {
+            for (int j = 0; j < 5; j++) {
                 System.out.print(n[i][j] + "\t");
             }
             System.out.println();
@@ -57,3 +57,4 @@ for(int i = 0;i < 5; i++){
     }
     
 }
+
