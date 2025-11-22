@@ -50,3 +50,11 @@ Exemplo: 1.5, 3.14, 2.75
 Mostra na tela todas as três matrizes que você preencheu, organizadas em formato de tabela.
 
 
+
+<img width="501" height="570" alt="Captura de tela 2025-11-22 140747" src="https://github.com/user-attachments/assets/f747651c-c14a-473c-9c9d-709f50eb4bc4" />
+
+
+<img width="654" height="549" alt="Captura de tela 2025-11-22 140723" src="https://github.com/user-attachments/assets/565050d2-d194-45e4-b0e2-1e35cea8e1bd" />
+
+
+Código em funcionamento.
