@@ -33,3 +33,6 @@ Fórmula: matriz[i][i] - linha e coluna são iguais
 <img width="824" height="254" alt="Captura de tela 2025-11-22 114328" src="https://github.com/user-attachments/assets/4efab240-98ac-4c16-a5bb-a95e7a7eb1c5" />
 
 
+ Mostra os elementos da diagonal secundária
+Posições: [1][4], [2][3], [3][2], [4][1]
+Fórmula: matriz[i][3 - i] - linha + coluna = 3
