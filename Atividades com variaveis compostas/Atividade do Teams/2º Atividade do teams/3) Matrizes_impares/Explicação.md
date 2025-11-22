@@ -39,3 +39,14 @@ Como funciona: Para cada coluna, soma todos os elementos dessa coluna
 
 Calcula e mostra a soma de cada linha
 Como funciona: Para cada linha, soma todos os elementos dessa linha
+
+
+
+<img width="523" height="371" alt="Captura de tela 2025-11-22 141434" src="https://github.com/user-attachments/assets/55b8d939-bc5b-486e-83e2-64b62450454b" />
+
+
+
+<img width="574" height="485" alt="Captura de tela 2025-11-22 141422" src="https://github.com/user-attachments/assets/ed4acfc5-19c1-420a-b909-d245e6c3c383" />
+
+
+Código em funcionamento.
