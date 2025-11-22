@@ -39,7 +39,7 @@ public class Criador_de_matriz {
         System.out.print("<--------------------------------------------------->");
         double[][] c = new double[4][3];
         System.out.println();
-        for(int i = 0;i < 4;i++){
+        for(int i = 0;i < 3;i++){
     for(int j = 0;j < 3;j++){
         System.out.print("Digite o valor para as coordenadas ["+ (i + 1) +"] ["+ (j + 1) +"] da matriz: \t");
         c[i][j] = scanner.nextDouble();
@@ -49,7 +49,7 @@ public class Criador_de_matriz {
         
 //-------------------------------------//-------------------------------------//
 
-        System.out.println("\nMatriz digitada:");
+        System.out.println("\nA)");
         for (int i = 0; i < 5; i++) {
             for (int j = 0; j < 4; j++) {
                 System.out.print(a[i][j] + "\t");
@@ -57,7 +57,7 @@ public class Criador_de_matriz {
             System.out.println();
         }
     //----------------------------------------------//
-        System.out.println("\nMatriz digitada:");
+        System.out.println("\nB)");
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 3; j++) {
                 System.out.print(b[i][j] + "\t");
@@ -65,8 +65,8 @@ public class Criador_de_matriz {
             System.out.println();
         }
     //---------------------------------------------//
-        System.out.println("\nMatriz digitada:");
-        for (int i = 0; i < 4; i++) {
+        System.out.println("\nC)");
+        for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 System.out.print(c[i][j] + "\t");
             }
@@ -76,3 +76,4 @@ public class Criador_de_matriz {
     }
     
 }
+
