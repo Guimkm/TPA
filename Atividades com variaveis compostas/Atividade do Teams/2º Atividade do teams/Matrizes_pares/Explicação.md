@@ -1,4 +1,4 @@
-<img width="511" height="236" alt="Captura de tela 2025-11-22 115948" src="https://github.com/user-attachments/assets/f4cc678b-5056-4ca5-a785-dcce9aaa01b5" />
+<img width="429" height="239" alt="Captura de tela 2025-11-22 132703" src="https://github.com/user-attachments/assets/0c4743ef-e540-4180-a1b2-e7f48f2cc52c" />
 
 
 Prepara o programa para receber dados
