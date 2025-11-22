@@ -35,3 +35,14 @@ Condição: i == 0 (primeira linha) OU i == 3 (última linha) OU j == 0 (primeir
 
 Mostra um triângulo com os elementos da diagonal para baixo
 Condição: j <= i - em cada linha, mostra apenas as colunas até a diagonal
+
+
+
+<img width="557" height="283" alt="Captura de tela 2025-11-22 142436" src="https://github.com/user-attachments/assets/d097b046-9c31-4268-812a-10d5c36c6c75" />
+
+
+
+<img width="629" height="491" alt="Captura de tela 2025-11-22 142429" src="https://github.com/user-attachments/assets/0630d002-170a-4ea5-9139-cd4b180536a5" />
+
+
+Código em funcionamento.
