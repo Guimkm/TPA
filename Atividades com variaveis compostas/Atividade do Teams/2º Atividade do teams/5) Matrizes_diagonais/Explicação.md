@@ -36,3 +36,14 @@ Fórmula: matriz[i][i] - linha e coluna são iguais
  Mostra os elementos da diagonal secundária
 Posições: [1][4], [2][3], [3][2], [4][1]
 Fórmula: matriz[i][3 - i] - linha + coluna = 3
+
+
+
+<img width="506" height="304" alt="Captura de tela 2025-11-22 142222" src="https://github.com/user-attachments/assets/d73464be-0e0a-44e4-ac93-a2e8037f9cc0" />
+
+
+
+<img width="589" height="491" alt="Captura de tela 2025-11-22 142213" src="https://github.com/user-attachments/assets/7e3081f8-d669-4e8a-8359-df27538d9f48" />
+
+
+Código em funcionamento.
